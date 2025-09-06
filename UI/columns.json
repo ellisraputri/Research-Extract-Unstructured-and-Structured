@@ -1,0 +1,25 @@
+{
+    "column_fields": [
+      "detailPemeriksaan",
+      "detailKeluhan",
+      "detailPengobatan",
+      "diagnosaDokter",
+      "icd10_label",
+      "pasien.jeniskelamin",
+      "pasien.umur",
+      "suhu", 
+      "pernapasan", 
+      "SPO2", 
+      "tinggiBadan", 
+      "beratBadan", 
+      "nadi", 
+      "tekanan_sistolik", 
+      "tekanan_diastolik",
+      "terapi",
+      "riwayatPenyakit", 
+      "pemeriksaanFisikLain",
+      "pemeriksaPenunjang",
+      "hasilInstruksi"
+    ]
+  }
+  
