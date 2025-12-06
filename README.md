@@ -19,3 +19,6 @@ The healthcare field has always been heavily reliant on the volume and quality o
 - UI: the GUI that can be run to extract the text
 - script: a collection of scripts to extract the CSV files
 
+
+## Data Privacy
+Due to the NDA signed with our data provider, the complete set of data will not be provided here. However, the mock data with the same structure is provided, so people can verify the validity of our research.
